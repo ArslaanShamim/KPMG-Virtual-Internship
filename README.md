@@ -21,3 +21,8 @@ Module 3 Task:
 
 The third task is to develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard. Specifically, the presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list. 
 
+
+Any advice or insights would be greatly appreciated. Thank you in advance!
+
+
+
